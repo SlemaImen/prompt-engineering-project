@@ -1,0 +1,725 @@
+
+========== Supply Chain Disruption Event 1 ==========
+Event Id: EVT-001
+Event Date: 2026-01-01
+Event Type: Natural Disaster
+Region: Asia
+Country: South Korea
+Facility: Busan Electronics Plant
+Supplier Id: SUP-1031
+Supplier Tier: Tier 1
+Material Or Component: Aluminum
+Transport Mode: Road
+Root Cause: tsunami
+Severity Level: Low
+Duration Days: 4
+Lead Time Increase Days: 1
+Shipment Delay Days: 1
+Otd Drop Pct: 6
+Inventory Doh Before: 42
+Inventory Doh After: 35
+Production Downtime Hours: 3
+Affected Skus: 8
+Expedite Cost Usd: 18559
+Logistics Cost Increase Pct: 14
+Revenue At Risk Usd: 23478
+Financial Impact Usd: 13775
+Mitigation Action: Deploy disaster recovery plan
+Business Continuity Status: Stable
+
+
+========== Supply Chain Disruption Event 2 ==========
+Event Id: EVT-002
+Event Date: 2026-01-05
+Event Type: Supplier Bankruptcy
+Region: Asia
+Country: Thailand
+Facility: Bangkok Assembly Plant
+Supplier Id: SUP-1089
+Supplier Tier: Tier 2
+Material Or Component: Semiconductors
+Transport Mode: Sea
+Root Cause: cash-flow crisis
+Severity Level: Low
+Duration Days: 4
+Lead Time Increase Days: 1
+Shipment Delay Days: 3
+Otd Drop Pct: 10
+Inventory Doh Before: 32
+Inventory Doh After: 30
+Production Downtime Hours: 9
+Affected Skus: 9
+Expedite Cost Usd: 3423
+Logistics Cost Increase Pct: 12
+Revenue At Risk Usd: 90284
+Financial Impact Usd: 29332
+Mitigation Action: Emergency direct procurement
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 3 ==========
+Event Id: EVT-003
+Event Date: 2026-01-07
+Event Type: Natural Disaster
+Region: Asia
+Country: South Korea
+Facility: Busan Electronics Plant
+Supplier Id: SUP-1098
+Supplier Tier: Tier 1
+Material Or Component: Aluminum
+Transport Mode: Rail
+Root Cause: flooding
+Severity Level: Medium
+Duration Days: 12
+Lead Time Increase Days: 9
+Shipment Delay Days: 10
+Otd Drop Pct: 20
+Inventory Doh Before: 45
+Inventory Doh After: 36
+Production Downtime Hours: 35
+Affected Skus: 75
+Expedite Cost Usd: 52460
+Logistics Cost Increase Pct: 23
+Revenue At Risk Usd: 517955
+Financial Impact Usd: 420575
+Mitigation Action: Emergency inventory allocation
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 4 ==========
+Event Id: EVT-004
+Event Date: 2026-01-09
+Event Type: Quality Failure
+Region: South America
+Country: Argentina
+Facility: Buenos Aires Distribution Center
+Supplier Id: SUP-1087
+Supplier Tier: Tier 1
+Material Or Component: Steel
+Transport Mode: Sea
+Root Cause: defective batch
+Severity Level: High
+Duration Days: 27
+Lead Time Increase Days: 14
+Shipment Delay Days: 13
+Otd Drop Pct: 36
+Inventory Doh Before: 38
+Inventory Doh After: 14
+Production Downtime Hours: 140
+Affected Skus: 154
+Expedite Cost Usd: 361740
+Logistics Cost Increase Pct: 42
+Revenue At Risk Usd: 1948158
+Financial Impact Usd: 1023389
+Mitigation Action: Return to supplier
+Business Continuity Status: Severely At Risk
+
+
+========== Supply Chain Disruption Event 5 ==========
+Event Id: EVT-005
+Event Date: 2026-01-13
+Event Type: Transport Disruption
+Region: North America
+Country: USA
+Facility: Texas Distribution Center
+Supplier Id: SUP-1065
+Supplier Tier: Tier 2
+Material Or Component: Steel
+Transport Mode: Rail
+Root Cause: fuel shortage
+Severity Level: High
+Duration Days: 28
+Lead Time Increase Days: 19
+Shipment Delay Days: 13
+Otd Drop Pct: 42
+Inventory Doh Before: 57
+Inventory Doh After: 37
+Production Downtime Hours: 157
+Affected Skus: 252
+Expedite Cost Usd: 345392
+Logistics Cost Increase Pct: 46
+Revenue At Risk Usd: 1127253
+Financial Impact Usd: 938603
+Mitigation Action: Use alternate carrier
+Business Continuity Status: Severely At Risk
+
+
+========== Supply Chain Disruption Event 6 ==========
+Event Id: EVT-006
+Event Date: 2026-01-16
+Event Type: Natural Disaster
+Region: North America
+Country: Canada
+Facility: Toronto Distribution Center
+Supplier Id: SUP-1058
+Supplier Tier: Tier 1
+Material Or Component: Semiconductors
+Transport Mode: Road
+Root Cause: earthquake
+Severity Level: Medium
+Duration Days: 6
+Lead Time Increase Days: 10
+Shipment Delay Days: 9
+Otd Drop Pct: 21
+Inventory Doh Before: 25
+Inventory Doh After: 16
+Production Downtime Hours: 21
+Affected Skus: 77
+Expedite Cost Usd: 46174
+Logistics Cost Increase Pct: 15
+Revenue At Risk Usd: 464019
+Financial Impact Usd: 206253
+Mitigation Action: Reroute shipments
+Business Continuity Status: At Risk
+
+
+========== Supply Chain Disruption Event 7 ==========
+Event Id: EVT-007
+Event Date: 2026-01-18
+Event Type: Labor Strike
+Region: Europe
+Country: Poland
+Facility: Warsaw Assembly Plant
+Supplier Id: SUP-1010
+Supplier Tier: Tier 2
+Material Or Component: Aluminum
+Transport Mode: Road
+Root Cause: working-conditions protest
+Severity Level: Low
+Duration Days: 4
+Lead Time Increase Days: 2
+Shipment Delay Days: 3
+Otd Drop Pct: 13
+Inventory Doh Before: 26
+Inventory Doh After: 19
+Production Downtime Hours: 9
+Affected Skus: 14
+Expedite Cost Usd: 8940
+Logistics Cost Increase Pct: 13
+Revenue At Risk Usd: 118994
+Financial Impact Usd: 81862
+Mitigation Action: Cross-train employees
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 8 ==========
+Event Id: EVT-008
+Event Date: 2026-01-21
+Event Type: Quality Failure
+Region: Middle East
+Country: Saudi Arabia
+Facility: Riyadh Distribution Center
+Supplier Id: SUP-1031
+Supplier Tier: Tier 1
+Material Or Component: Packaging
+Transport Mode: Sea
+Root Cause: material substandard
+Severity Level: Medium
+Duration Days: 8
+Lead Time Increase Days: 4
+Shipment Delay Days: 6
+Otd Drop Pct: 16
+Inventory Doh Before: 33
+Inventory Doh After: 15
+Production Downtime Hours: 26
+Affected Skus: 38
+Expedite Cost Usd: 29117
+Logistics Cost Increase Pct: 25
+Revenue At Risk Usd: 187149
+Financial Impact Usd: 104521
+Mitigation Action: Expedite re-manufacturing
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 9 ==========
+Event Id: EVT-009
+Event Date: 2026-01-23
+Event Type: Quality Failure
+Region: Europe
+Country: Netherlands
+Facility: Rotterdam Distribution Center
+Supplier Id: SUP-1024
+Supplier Tier: Tier 1
+Material Or Component: Rubber
+Transport Mode: Air
+Root Cause: contamination
+Severity Level: Medium
+Duration Days: 5
+Lead Time Increase Days: 9
+Shipment Delay Days: 6
+Otd Drop Pct: 16
+Inventory Doh Before: 39
+Inventory Doh After: 29
+Production Downtime Hours: 37
+Affected Skus: 73
+Expedite Cost Usd: 39322
+Logistics Cost Increase Pct: 22
+Revenue At Risk Usd: 250448
+Financial Impact Usd: 91194
+Mitigation Action: Expedite re-manufacturing
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 10 ==========
+Event Id: EVT-010
+Event Date: 2026-01-26
+Event Type: Quality Failure
+Region: Europe
+Country: Germany
+Facility: Berlin Manufacturing Plant
+Supplier Id: SUP-1070
+Supplier Tier: Tier 1
+Material Or Component: Plastics
+Transport Mode: Rail
+Root Cause: defective batch
+Severity Level: Critical
+Duration Days: 57
+Lead Time Increase Days: 27
+Shipment Delay Days: 30
+Otd Drop Pct: 63
+Inventory Doh Before: 40
+Inventory Doh After: 2
+Production Downtime Hours: 448
+Affected Skus: 546
+Expedite Cost Usd: 848260
+Logistics Cost Increase Pct: 77
+Revenue At Risk Usd: 5364169
+Financial Impact Usd: 4245555
+Mitigation Action: Implement 100% inspection
+Business Continuity Status: At Risk
+
+
+========== Supply Chain Disruption Event 11 ==========
+Event Id: EVT-011
+Event Date: 2026-01-29
+Event Type: Quality Failure
+Region: North America
+Country: Canada
+Facility: Toronto Distribution Center
+Supplier Id: SUP-1019
+Supplier Tier: Tier 1
+Material Or Component: Bearings
+Transport Mode: Road
+Root Cause: material substandard
+Severity Level: High
+Duration Days: 16
+Lead Time Increase Days: 15
+Shipment Delay Days: 12
+Otd Drop Pct: 31
+Inventory Doh Before: 32
+Inventory Doh After: 7
+Production Downtime Hours: 182
+Affected Skus: 228
+Expedite Cost Usd: 378463
+Logistics Cost Increase Pct: 35
+Revenue At Risk Usd: 719285
+Financial Impact Usd: 594465
+Mitigation Action: Implement 100% inspection
+Business Continuity Status: At Risk
+
+
+========== Supply Chain Disruption Event 12 ==========
+Event Id: EVT-012
+Event Date: 2026-01-31
+Event Type: Transport Disruption
+Region: Asia
+Country: Singapore
+Facility: Singapore Logistics Hub
+Supplier Id: SUP-1074
+Supplier Tier: Tier 2
+Material Or Component: Electronic Components
+Transport Mode: Sea
+Root Cause: rail network failure
+Severity Level: High
+Duration Days: 25
+Lead Time Increase Days: 14
+Shipment Delay Days: 15
+Otd Drop Pct: 40
+Inventory Doh Before: 40
+Inventory Doh After: 18
+Production Downtime Hours: 121
+Affected Skus: 167
+Expedite Cost Usd: 307505
+Logistics Cost Increase Pct: 34
+Revenue At Risk Usd: 1953713
+Financial Impact Usd: 840093
+Mitigation Action: Use alternate carrier
+Business Continuity Status: Severely At Risk
+
+
+========== Supply Chain Disruption Event 13 ==========
+Event Id: EVT-013
+Event Date: 2026-02-01
+Event Type: Natural Disaster
+Region: Middle East
+Country: UAE
+Facility: Dubai Logistics Hub
+Supplier Id: SUP-1016
+Supplier Tier: Tier 3
+Material Or Component: Aluminum
+Transport Mode: Rail
+Root Cause: typhoon
+Severity Level: Medium
+Duration Days: 12
+Lead Time Increase Days: 10
+Shipment Delay Days: 9
+Otd Drop Pct: 15
+Inventory Doh Before: 53
+Inventory Doh After: 44
+Production Downtime Hours: 54
+Affected Skus: 100
+Expedite Cost Usd: 64240
+Logistics Cost Increase Pct: 18
+Revenue At Risk Usd: 220407
+Financial Impact Usd: 90075
+Mitigation Action: Emergency inventory allocation
+Business Continuity Status: At Risk
+
+
+========== Supply Chain Disruption Event 14 ==========
+Event Id: EVT-014
+Event Date: 2026-02-04
+Event Type: Port Congestion
+Region: Africa
+Country: Morocco
+Facility: Casablanca Distribution Center
+Supplier Id: SUP-1087
+Supplier Tier: Tier 2
+Material Or Component: Semiconductors
+Transport Mode: Sea
+Root Cause: container backlog
+Severity Level: Critical
+Duration Days: 57
+Lead Time Increase Days: 21
+Shipment Delay Days: 27
+Otd Drop Pct: 70
+Inventory Doh Before: 55
+Inventory Doh After: 12
+Production Downtime Hours: 416
+Affected Skus: 441
+Expedite Cost Usd: 492456
+Logistics Cost Increase Pct: 50
+Revenue At Risk Usd: 4798075
+Financial Impact Usd: 3419451
+Mitigation Action: Shift to air freight
+Business Continuity Status: At Risk
+
+
+========== Supply Chain Disruption Event 15 ==========
+Event Id: EVT-015
+Event Date: 2026-02-08
+Event Type: Labor Strike
+Region: Asia
+Country: China
+Facility: Shenzhen Manufacturing Plant
+Supplier Id: SUP-1069
+Supplier Tier: Tier 1
+Material Or Component: Packaging
+Transport Mode: Road
+Root Cause: working-conditions protest
+Severity Level: Medium
+Duration Days: 5
+Lead Time Increase Days: 6
+Shipment Delay Days: 10
+Otd Drop Pct: 16
+Inventory Doh Before: 53
+Inventory Doh After: 39
+Production Downtime Hours: 34
+Affected Skus: 56
+Expedite Cost Usd: 57706
+Logistics Cost Increase Pct: 18
+Revenue At Risk Usd: 335429
+Financial Impact Usd: 240861
+Mitigation Action: Activate contingency workforce
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 16 ==========
+Event Id: EVT-016
+Event Date: 2026-02-10
+Event Type: Cyber Attack
+Region: South America
+Country: Brazil
+Facility: Sao Paulo Manufacturing Plant
+Supplier Id: SUP-1094
+Supplier Tier: Tier 3
+Material Or Component: Rubber
+Transport Mode: Rail
+Root Cause: system breach
+Severity Level: Medium
+Duration Days: 6
+Lead Time Increase Days: 7
+Shipment Delay Days: 5
+Otd Drop Pct: 30
+Inventory Doh Before: 52
+Inventory Doh After: 41
+Production Downtime Hours: 26
+Affected Skus: 55
+Expedite Cost Usd: 85332
+Logistics Cost Increase Pct: 26
+Revenue At Risk Usd: 310007
+Financial Impact Usd: 230124
+Mitigation Action: Activate backup IT infrastructure
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 17 ==========
+Event Id: EVT-017
+Event Date: 2026-02-12
+Event Type: Transport Disruption
+Region: North America
+Country: Canada
+Facility: Toronto Distribution Center
+Supplier Id: SUP-1098
+Supplier Tier: Tier 1
+Material Or Component: Plastics
+Transport Mode: Air
+Root Cause: rail network failure
+Severity Level: Medium
+Duration Days: 5
+Lead Time Increase Days: 4
+Shipment Delay Days: 9
+Otd Drop Pct: 20
+Inventory Doh Before: 48
+Inventory Doh After: 28
+Production Downtime Hours: 49
+Affected Skus: 63
+Expedite Cost Usd: 30014
+Logistics Cost Increase Pct: 18
+Revenue At Risk Usd: 462775
+Financial Impact Usd: 236356
+Mitigation Action: Consolidate shipments
+Business Continuity Status: At Risk
+
+
+========== Supply Chain Disruption Event 18 ==========
+Event Id: EVT-018
+Event Date: 2026-02-13
+Event Type: Transport Disruption
+Region: Middle East
+Country: UAE
+Facility: Dubai Logistics Hub
+Supplier Id: SUP-1005
+Supplier Tier: Tier 2
+Material Or Component: Steel
+Transport Mode: Air
+Root Cause: rail network failure
+Severity Level: High
+Duration Days: 21
+Lead Time Increase Days: 15
+Shipment Delay Days: 18
+Otd Drop Pct: 32
+Inventory Doh Before: 51
+Inventory Doh After: 18
+Production Downtime Hours: 144
+Affected Skus: 259
+Expedite Cost Usd: 264582
+Logistics Cost Increase Pct: 33
+Revenue At Risk Usd: 1229821
+Financial Impact Usd: 681657
+Mitigation Action: Consolidate shipments
+Business Continuity Status: Severely At Risk
+
+
+========== Supply Chain Disruption Event 19 ==========
+Event Id: EVT-019
+Event Date: 2026-02-16
+Event Type: Cyber Attack
+Region: Europe
+Country: Netherlands
+Facility: Rotterdam Distribution Center
+Supplier Id: SUP-1086
+Supplier Tier: Tier 2
+Material Or Component: Copper
+Transport Mode: Road
+Root Cause: network outage
+Severity Level: Medium
+Duration Days: 5
+Lead Time Increase Days: 6
+Shipment Delay Days: 9
+Otd Drop Pct: 21
+Inventory Doh Before: 41
+Inventory Doh After: 26
+Production Downtime Hours: 39
+Affected Skus: 71
+Expedite Cost Usd: 85946
+Logistics Cost Increase Pct: 29
+Revenue At Risk Usd: 381819
+Financial Impact Usd: 250235
+Mitigation Action: Activate backup IT infrastructure
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 20 ==========
+Event Id: EVT-020
+Event Date: 2026-02-19
+Event Type: Customs Delay
+Region: Asia
+Country: Thailand
+Facility: Bangkok Assembly Plant
+Supplier Id: SUP-1086
+Supplier Tier: Tier 1
+Material Or Component: Bearings
+Transport Mode: Sea
+Root Cause: documentation errors
+Severity Level: Medium
+Duration Days: 12
+Lead Time Increase Days: 8
+Shipment Delay Days: 6
+Otd Drop Pct: 29
+Inventory Doh Before: 45
+Inventory Doh After: 26
+Production Downtime Hours: 38
+Affected Skus: 54
+Expedite Cost Usd: 75328
+Logistics Cost Increase Pct: 30
+Revenue At Risk Usd: 359533
+Financial Impact Usd: 142515
+Mitigation Action: Expedite air freight
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 21 ==========
+Event Id: EVT-021
+Event Date: 2026-02-23
+Event Type: Port Congestion
+Region: Europe
+Country: United Kingdom
+Facility: Birmingham Distribution Center
+Supplier Id: SUP-1006
+Supplier Tier: Tier 2
+Material Or Component: Aluminum
+Transport Mode: Sea
+Root Cause: container backlog
+Severity Level: High
+Duration Days: 25
+Lead Time Increase Days: 17
+Shipment Delay Days: 21
+Otd Drop Pct: 46
+Inventory Doh Before: 54
+Inventory Doh After: 27
+Production Downtime Hours: 169
+Affected Skus: 240
+Expedite Cost Usd: 333787
+Logistics Cost Increase Pct: 35
+Revenue At Risk Usd: 1595464
+Financial Impact Usd: 829708
+Mitigation Action: Reroute via road
+Business Continuity Status: Severely At Risk
+
+
+========== Supply Chain Disruption Event 22 ==========
+Event Id: EVT-022
+Event Date: 2026-02-25
+Event Type: Supplier Bankruptcy
+Region: South America
+Country: Brazil
+Facility: Sao Paulo Manufacturing Plant
+Supplier Id: SUP-1030
+Supplier Tier: Tier 1
+Material Or Component: Packaging
+Transport Mode: Rail
+Root Cause: cash-flow crisis
+Severity Level: Low
+Duration Days: 2
+Lead Time Increase Days: 4
+Shipment Delay Days: 2
+Otd Drop Pct: 8
+Inventory Doh Before: 21
+Inventory Doh After: 18
+Production Downtime Hours: 1
+Affected Skus: 14
+Expedite Cost Usd: 15356
+Logistics Cost Increase Pct: 10
+Revenue At Risk Usd: 91121
+Financial Impact Usd: 48253
+Mitigation Action: Build strategic inventory
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 23 ==========
+Event Id: EVT-023
+Event Date: 2026-02-26
+Event Type: Transport Disruption
+Region: South America
+Country: Brazil
+Facility: Sao Paulo Manufacturing Plant
+Supplier Id: SUP-1038
+Supplier Tier: Tier 2
+Material Or Component: Rubber
+Transport Mode: Air
+Root Cause: rail network failure
+Severity Level: High
+Duration Days: 22
+Lead Time Increase Days: 17
+Shipment Delay Days: 15
+Otd Drop Pct: 38
+Inventory Doh Before: 55
+Inventory Doh After: 23
+Production Downtime Hours: 171
+Affected Skus: 224
+Expedite Cost Usd: 115217
+Logistics Cost Increase Pct: 42
+Revenue At Risk Usd: 1304914
+Financial Impact Usd: 849922
+Mitigation Action: Switch transport mode
+Business Continuity Status: Severely At Risk
+
+
+========== Supply Chain Disruption Event 24 ==========
+Event Id: EVT-024
+Event Date: 2026-02-28
+Event Type: Labor Strike
+Region: South America
+Country: Chile
+Facility: Santiago Logistics Hub
+Supplier Id: SUP-1010
+Supplier Tier: Tier 2
+Material Or Component: Copper
+Transport Mode: Rail
+Root Cause: working-conditions protest
+Severity Level: Low
+Duration Days: 4
+Lead Time Increase Days: 3
+Shipment Delay Days: 2
+Otd Drop Pct: 12
+Inventory Doh Before: 33
+Inventory Doh After: 29
+Production Downtime Hours: 5
+Affected Skus: 11
+Expedite Cost Usd: 14423
+Logistics Cost Increase Pct: 9
+Revenue At Risk Usd: 118567
+Financial Impact Usd: 97310
+Mitigation Action: Negotiate with union
+Business Continuity Status: Stable with Monitoring
+
+
+========== Supply Chain Disruption Event 25 ==========
+Event Id: EVT-025
+Event Date: 2026-03-01
+Event Type: Labor Strike
+Region: North America
+Country: USA
+Facility: Texas Distribution Center
+Supplier Id: SUP-1099
+Supplier Tier: Tier 3
+Material Or Component: Steel
+Transport Mode: Road
+Root Cause: working-conditions protest
+Severity Level: Low
+Duration Days: 1
+Lead Time Increase Days: 2
+Shipment Delay Days: 2
+Otd Drop Pct: 7
+Inventory Doh Before: 42
+Inventory Doh After: 38
+Production Downtime Hours: 7
+Affected Skus: 22
+Expedite Cost Usd: 5748
+Logistics Cost Increase Pct: 14
+Revenue At Risk Usd: 144224
+Financial Impact Usd: 54917
+Mitigation Action: Cross-train employees
+Business Continuity Status: Stable
+
